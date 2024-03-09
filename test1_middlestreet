@@ -1,0 +1,32 @@
+Paused....
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|(NULL)|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|(NULL)|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+ ExecutionList [T3 Temp Marking [P2(Peugeot-B999BUC)]]
+[T1 conditions are false]0[T2 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|(NULL)|  P2(Peugeot-B999BUC)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+ ExecutionList [T2 Temp Marking []]
+[T1 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|(P1(Peugeot-B999BUC))|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+ ExecutionList [T1 Temp Marking [P_oli2(Peugeot-B999BUC)]]
+[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Peugeot-B999BUC)  P1|()|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_oli2
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|()|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_oli2(Null)  P1|()|  P2(Null)  I_i4(localhost-1082-P_ai4)  E_oli3(Null)  P3|()|  P4(Null)  I_i2(localhost-1081-i2)]
+Waiting For Commands over this port:1084
+####################  Middle Street Started  #####################
